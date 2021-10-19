@@ -1,2 +1,2 @@
 # test
-nem repo to class
+new repo to class
